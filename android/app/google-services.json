@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353523488170",
+    "project_id": "jal-sahay-sih",
+    "storage_bucket": "jal-sahay-sih.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353523488170:android:95dcb31210b174b07247d3",
+        "android_client_info": {
+          "package_name": "com.example.jalsahay_sih2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9vJ5Kuq1V5kgQw6wuKZPF0LvvRQK7eeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
